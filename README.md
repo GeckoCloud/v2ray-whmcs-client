@@ -7,4 +7,4 @@
 |name|客户端启动名称|
 |liscense|授权码|
 ## 客户端文件下载地址
-进群索要  
+join telegram group
