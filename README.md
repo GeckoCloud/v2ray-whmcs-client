@@ -1,5 +1,5 @@
 ## 配置  
-编辑客户端目录下`resources/lib/config.json`文件  
+编辑客户端目录下`resources/lib/config.js`文件  
 ## 配置文件结构
 |参数名|描述|
 |:-|:-|
